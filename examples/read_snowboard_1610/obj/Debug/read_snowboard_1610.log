@@ -1,0 +1,12 @@
+﻿  klib.cpp
+  ofApp.cpp
+c:\of_v0.9.2_vs_release\libs\openframeworks\math\ofVec3f.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오. (소스 파일 컴파일 중 src\klib.cpp)
+c:\of_v0.9.2_vs_release\libs\openframeworks\math\ofVec2f.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오. (소스 파일 컴파일 중 src\klib.cpp)
+c:\of_v0.9.2_vs_release\libs\openframeworks\math\ofVec3f.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오. (소스 파일 컴파일 중 src\ofApp.cpp)
+c:\of_v0.9.2_vs_release\libs\openframeworks\math\ofVec2f.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오. (소스 파일 컴파일 중 src\ofApp.cpp)
+c:\of_v0.9.2_vs_release\libs\openframeworks\math\ofVec2f.h(1363): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다. (소스 파일 컴파일 중 src\klib.cpp)
+c:\of_v0.9.2_vs_release\libs\openframeworks\math\ofVec2f.h(1363): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다. (소스 파일 컴파일 중 src\ofApp.cpp)
+     bin\read_snowboard_1610_debug.lib 라이브러리 및 bin\read_snowboard_1610_debug.exp 개체를 생성하고 있습니다.
+  read_snowboard_1610.vcxproj -> C:\Users\wchang\Documents\GitHub\klib-cpp\examples\read_snowboard_1610\bin\read_snowboard_1610_debug.exe
+  
+  	                   9	C:\of_v0.9.2_vs_release\export\vs\Win32\
