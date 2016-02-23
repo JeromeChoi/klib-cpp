@@ -6,4 +6,4 @@ Kitronyx API for C/C++
 DEVELOPMENT ENVIRONMENT
 -----------------------
 * Visual Studio 2015
-* OpenFrameworks 0.9.2: OpenFrameworks folder should be `c:\of_v0.9.2_vs_release\`
+* OpenFrameworks 0.9.2: OpenFrameworks folder should be at `c:\of_v0.9.2_vs_release\`
