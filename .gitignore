@@ -1,3 +1,6 @@
+*.bak
+.vs
+
 # Compiled Object files
 *.slo
 *.lo
@@ -26,9 +29,3 @@
 *.exe
 *.out
 *.app
-
-# Backup files
-*.bak
-
-# VS folder
-.vs
