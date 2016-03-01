@@ -15,7 +15,7 @@ Grid * grid;
 void ofApp::setup() {
 	klib = new KLib();
 	// update port number according to your system.
-	klib->init("COM1", "MC1509", "MS9705");
+	klib->init("COM9", "MC1509", "MS9705");
 
 	int sz_rect = 20;
 	grid = new Grid(klib->nrow, klib->ncol, sz_rect);
