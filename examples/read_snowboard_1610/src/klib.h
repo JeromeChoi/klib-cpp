@@ -39,6 +39,7 @@ public:
 
 private:
 	bool read_snowboard(void);
+	bool read_mc1509(void);
 	std::string trim_right(string str);
 	std::string trim_left(string str);
 	std::string trim(string str);
